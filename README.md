@@ -19,4 +19,4 @@
 </p>
 
 <h4>if you want to see this project visit the following link</h4>
-<h4>https://counter-project-vanilla-js.netlify.app</h4>
+<h4>https://poo-counter.netlify.app</h4>
